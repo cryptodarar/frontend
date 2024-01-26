@@ -1,2 +1,2 @@
 # fe app
-vue
+vue.js
