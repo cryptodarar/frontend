@@ -1,1 +1,1 @@
-# fe app
+# frontend app
